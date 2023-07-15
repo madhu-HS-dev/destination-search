@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.item-container {
+  margin-right: 15px;
+}
+
+.image {
+  width: 200px;
+}
+
+.item-name {
+  color: #000000;
+  font-family: 'Open Sans';
+  font-weight: 550;
+  font-size: 12px;
+}
